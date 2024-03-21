@@ -15,5 +15,4 @@ API_VERSION = 'v1'
 # API_URL format: "https://[FUNCTION_APP_NAME_GOES_HERE].azurewebsites.net"
 #API_URL = " https://neighborlyapi.azurewebsites.net/api/"
 
-# for local host if Azure functions served locally
 API_URL = " https://course2functionapp2.azurewebsites.net/api"
